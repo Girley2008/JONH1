@@ -79,14 +79,17 @@
 
     <div class="card">
         <h2>Sobre o aluno</h2>
-        <p>Nome: ______</p>
-        <p>Turma: ______</p>
-        <p>Data: __ / __ / __</p>
+        <p>Nome: Girley</p>
+        <p>Turma: 301</p>
+        <p>Data de nascimento:07/12/2008</p>
     </div>
 
     <div class="card">
         <h2>Conteúdos aprendidos</h2>
         <ul>
+            <li>Banco de dados</li>
+            <li>Power BI</li>
+            <li>Python</li>
             <li>Estrutura de páginas web</li>
             <li>Criação de sites</li>
             <li>Uso de imagens e links</li>
@@ -96,13 +99,14 @@
 
     <div class="card">
         <h2>Imagem de exemplo</h2>
-        <img src="https://via.placeholder.com/200">
+        <img src="https://img.odcdn.com.br/wp-content/uploads/2024/06/Codigo-de-programacao-via-Chris-Ried-Unsplash-1536x1026.jpg">
+        <img src="https://media.istockphoto.com/id/1048373706/photo/software-developer-programming-code-abstract-computer-script-code-programming-code-screen-of.jpg?s=612x612&w=0&k=20&c=F9aCXs0QsedJCUV6Hbwdj7cxD5K2xBkYfUJ5nVNQCEo="
     </div>
 
     <div class="card">
         <h2>Link de exemplo</h2>
         <p>
-            <a href="https://www.google.com" target="_blank">
+            <a href="https://github.com/Girley2008?tab=repositories">
                 Abrir o Google
             </a>
         </p>
@@ -110,7 +114,7 @@
 
     <div class="card">
         <h2>Interação</h2>
-        <button onclick="mostrarMensagem()">Clique aqui</button>
+        <button onclick="mostrarMensagem()">Não click aqui</button>
         <p id="mensagem"></p>
     </div>
 
